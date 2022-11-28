@@ -49,8 +49,8 @@
 
 1. Make sure you're in the root directory of the cloned folder
 2. `npm run start-container`
+3. `ctl+c` to exit
 
 #### To resume the container after exiting
 
-1. Make sure you're in the root directory of the cloned folder
-2. `npm run dev-container`
+- `npm run dev-container`
